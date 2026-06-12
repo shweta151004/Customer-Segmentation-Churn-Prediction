@@ -34,7 +34,6 @@ Python, Pandas, Scikit-learn, XGBoost, SHAP, Matplotlib, Jupyter
 
 ## Results
 
-![Customer Segments](<img width="1011" height="467" alt="image" src="https://github.com/user-attachments/assets/86fa565c-4f25-4ef5-a756-903b80b41ec9" />
-)
-![Churn Rate by Segment](<img width="1010" height="498" alt="image" src="https://github.com/user-attachments/assets/c1193cf0-6f36-4498-9d3e-742854f26628" />
-)
+![Customer Segments](segments.png)
+![Churn Rate by Segment](churn_rate.png)
+
